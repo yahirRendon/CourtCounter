@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--margin and padding sizes-->
+    <dimen name="medium">8dp</dimen>
+    <dimen name="large">16dp</dimen>
+    <dimen name="xlarge">24dp</dimen>
+    <dimen name="xxlarge">32dp</dimen>
+    <!--text sizes-->
+    <dimen name="medium_text">14sp</dimen>
+    <dimen name="large_text">56sp</dimen>
+</resources>
